@@ -1,0 +1,11 @@
+# Ignore the following
+venv/
+.env
+.vscode/
+.ipynb_checkpoints/
+.py[cod]
+__pycache__/
+
+# Ignore images in Cars Dataset/BMW Dataset and Cars Dataset/Lexus Dataset
+Cars\ Dataset/BMW\ Dataset/*
+Cars\ Dataset/Lexus\ Dataset/*
